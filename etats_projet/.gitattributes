@@ -1,0 +1,1 @@
+*.story filter=lfs diff=lfs merge=lfs -text
