@@ -1,1 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
 etats_projet/The[[:space:]]Orchestra[[:space:]]-[[:space:]]Prototype[[:space:]]entier.zip filter=lfs diff=lfs merge=lfs -text
